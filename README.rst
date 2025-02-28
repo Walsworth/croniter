@@ -1,26 +1,6 @@
 Introduction
 ============
 
-DISCLAIMER - ABANDONED/UNMAINTAINED CODE 
-=======================================================
-This repository and all associated resources (including related projects, code, documentation, and distributed packages such as Docker images, PyPI packages, etc.) are now explicitly declared **unmaintained** and **abandoned**.
-
-I would like to remind everyone that this project’s free license has always been based on the principle that the software is provided "AS-IS", without any warranty or expectation of liability or maintenance from the maintainer.
-As such, it is used solely at the user's own risk, with no warranty or liability from the maintainer, including but not limited to any damages arising from its use.
-
-**No further technical support, updates (including security patches), or maintenance, of any kind, will be provided.**
-
-These resources may remain online, but solely for public archiving, documentation, and educational purposes.
-
-Users are strongly advised not to use these resources in any active or production-related projects, and to seek alternative solutions.
-
-**Using these resources outside of these contexts is done at your own risk.**
-
-
-
-.. contents::
-
-
 croniter provides iteration for the datetime object with a cron like format.
 
 ::
@@ -32,13 +12,7 @@ croniter provides iteration for the datetime object with a cron like format.
      \___|_|  \___/|_| |_|_|\__\___|_|
 
 
-Website: https://github.com/kiorky/croniter
-
-Build Badge
-===========
-.. image:: https://github.com/kiorky/croniter/actions/workflows/cicd.yml/badge.svg
-    :target: https://github.com/kiorky/croniter/actions/workflows/cicd.yml
-
+Website: https://github.com/walsworth/croniter
 
 Usage
 ============
